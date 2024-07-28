@@ -20,7 +20,7 @@
 <h2>Requirements:</h2>
         <ul>
             <li><strong>Flutter</strong>: For frontend flutter is used</li>
-            <li><strong>Firebase</strong>: For daatabase create firebase account and add its credentials to flutter code.</li>
+            <li><strong>Firebase</strong>: For database create firebase account and add its credentials to flutter code.</li>
             <li><strong>Chatbot</strong>: For chatbot a sequence to sequence model is used, trained on customer support training dataset.</li>
             <li><strong>NLP</strong>: For langauge processing libraries like sumy, GoogleTranslator, deep_translator, gTTS, and indic_transliteration are used.</li>
             <li><strong>OCR</strong>: For OCR we have used CNN and RNN.</li>    
