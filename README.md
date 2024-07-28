@@ -24,6 +24,7 @@
             </li>
             <li><strong>Install Dependencies</strong>:
                 <pre><code>flutter pub get</code></pre>
+                <pre><code>flutter pub get</code></pre>
             </li>
             <li><strong>Run the Application</strong>:
                 <pre><code>flutter run</code></pre>
@@ -36,36 +37,12 @@
             <strong>Admin Side</strong>: Admins can log in to the admin panel, process applications, update statuses, and use OCR for data entry from paper forms.
         </p>
 
-<h2>Contribution</h2>
-        <p>
-            We welcome contributions from the community. To contribute:
-        </p>
-        <ol>
-            <li>Fork the repository.</li>
-            <li>Create a new branch:
-                <pre><code>git checkout -b feature/your-feature-name</code></pre>
-            </li>
-            <li>Make your changes and commit them:
-                <pre><code>git commit -m "Add your message here"</code></pre>
-            </li>
-            <li>Push to the branch:
-                <pre><code>git push origin feature/your-feature-name</code></pre>
-            </li>
-            <li>Create a pull request detailing your changes.</li>
-        </ol>
-
- <h2>License</h2>
-        <p>
-            This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
-        </p>
-
 <h2>Contact</h2>
         <p>
-            For any inquiries or issues, please contact us at <a href="mailto:support@indore-municipal.gov.in">support@indore-municipal.gov.in</a>.
+            For any inquiries or issues, please contact us at <a href="priyanshigupta1701@gmail.com"></a>.
         </p>
 
-<p>Thank you for using and contributing to the Municipal Corporation of Indore E-Services App!</p>
-    </div>
+</div>
 </body>
 </html>
 
