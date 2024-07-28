@@ -44,10 +44,19 @@
         <h2>Project Structure</h2>
         <pre><code>.
 ├── android
+│   ├── app
+│   ├── gradle
+│   │   └── wrapper
 ├── assets
 │   └── images
-├── build
 ├── ios
+│   ├── fluter
+│   ├── runner.xcodeproj
+│   ├── runner.xcworkspace
+│   ├── Runner
+│   ├── RunnerTests
+├── web
+│   ├── icons
 ├── lib
 │   ├── models
 │   ├── screens
@@ -55,7 +64,6 @@
 │   ├── utils
 │   └── widgets
 ├── test
-├── pubspec.yaml
 └── README.md
         </code></pre>
 
