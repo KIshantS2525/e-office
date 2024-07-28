@@ -16,24 +16,52 @@
             <li><strong>OCR Integration</strong>: Allows admins to scan and upload data directly from paper forms, reducing manual data entry and errors.</li>
             <li><strong>User-Friendly Interface</strong>: Intuitive and easy-to-navigate design for both users and administrators.</li>
         </ul>
-
+        
+<h2>Requirements:</h2>
+        <ul>
+            <li><strong>Flutter</strong>: For frontend flutter is used</li>
+            <li><strong>Firebase</strong>: For daatabase create firebase account and add its credentials to flutter code.</li>
+            <li><strong>Chatbot</strong>: For chatbot a sequence to sequence model is used, trained on customer support training dataset.</li>
+            <li><strong>NLP</strong>: For langauge processing libraries like sumy, GoogleTranslator, deep_translator, gTTS, and indic_transliteration are used.</li>
+            <li><strong>OCR</strong>: For OCR we have used CNN and RNN.</li>    
+        </ul>
  <h2>Installation</h2>
-        <ol>
+ 
+<ol>
             <li><strong>Clone the Repository</strong>:
                 <pre><code>git clone https://github.com/KIshantS2525/e-office.git</code></pre>
             </li>
             <li><strong>Install Dependencies</strong>:
                 <pre><code>flutter pub get</code></pre>
-                <pre><code>flutter pub get</code></pre>
             </li>
             <li><strong>Run the Application</strong>:
                 <pre><code>flutter run</code></pre>
             </li>
+            <li><strong>Download the Dataset</strong>:
+                <pre><code>Download the dataset from <a href="https://www.kaggle.com/datasets/talaviyabhavik/customer-support-training-data" target="_blank">Kaggle</a></code></pre>
+            </li>
         </ol>
+        <h2>Project Structure</h2>
+        <pre><code>.
+├── android
+├── assets
+│   └── images
+├── build
+├── ios
+├── lib
+│   ├── models
+│   ├── screens
+│   ├── services
+│   ├── utils
+│   └── widgets
+├── test
+├── pubspec.yaml
+└── README.md
+        </code></pre>
 
 <h2>Usage</h2>
         <p>
-            <strong>User Side</strong>: Users can register, apply for certificates, track their application status, and receive notifications.<br>
+            <strong>User Side</strong>: Users can register, apply for services, track their application status, and receive notifications.<br>
             <strong>Admin Side</strong>: Admins can log in to the admin panel, process applications, update statuses, and use OCR for data entry from paper forms.
         </p>
 
