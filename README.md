@@ -75,7 +75,7 @@
 
 <h2>Contact</h2>
         <p>
-            For any inquiries or issues, please contact us at <a href="priyanshigupta1701@gmail.com"></a>.
+            For any inquiries or issues, please contact us at <a href="priyanshigupta1701@gmail.com">support@teammavericks</a>.
         </p>
 
 </div>
